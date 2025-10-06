@@ -18,7 +18,7 @@ function App() {
         <CardHeader>
           <CardTitle className="flex items-center gap-4">
             <Avatar className="size-16">
-              <AvatarImage src="/avatar.jpeg" />
+              <AvatarImage src="/ultrajam/avatar.jpeg" />
               <AvatarFallback>SG</AvatarFallback>
             </Avatar>
             <div className="flex gap-2 flex-col">
